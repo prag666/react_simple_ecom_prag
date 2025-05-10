@@ -1,0 +1,2 @@
+# Create/update .gitignore
+echo "node_modules/" >> .gitignore
